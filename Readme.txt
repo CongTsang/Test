@@ -4,5 +4,3 @@ Baby 1
 Baby 2
 Dog
 Cat
-grandfather
-grandmather
